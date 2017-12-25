@@ -15,9 +15,6 @@ public class DemoObj {
         return "I sasasa DemoObj";
     }
 
-    public String toString2() {
-        return "I sassdsasdsasa DemoObj";
-    }
     public String toString5() {
         return "I sassdsasdsasa DemoObj";
     }
