@@ -9,4 +9,8 @@ public class DemoObj {
         return "I am DemoObj";
     }
 
+    public String toString9() {
+        return "I am DemoObj";
+    }
+
 }
