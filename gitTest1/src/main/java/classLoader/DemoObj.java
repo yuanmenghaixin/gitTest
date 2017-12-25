@@ -12,7 +12,7 @@ public class DemoObj {
         return "I am 23emoObj";
     }
     public String toString1() {
-        return "I sassdsasdsasa DemoObj";
+        return "I sasasa DemoObj";
     }
 
     public String toString2() {
