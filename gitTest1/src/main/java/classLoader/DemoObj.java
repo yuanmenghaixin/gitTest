@@ -9,12 +9,9 @@ public class DemoObj {
     }
     @Override
     public String toString() {
-        return "I am DemoObj";
+        return "I am 23323e223DemoObj";
     }
     public String toString1() {
-        return "I am DemoObj";
-    }
-    public String toString2() {
-        return "I am DemoObj";
+        return "I sassdsasdsassdsasdama DemoObj";
     }
 }
