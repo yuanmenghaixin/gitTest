@@ -12,7 +12,7 @@ public class DemoObj {
         return "I am 23emoObj";
     }
     public String toString1() {
-        return "分支第五次修改";
+        return "I sasasa DemoObj";
     }
 
     public String toString5() {

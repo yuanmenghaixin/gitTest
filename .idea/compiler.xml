@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gitTest" />
+        <module name="gitTest1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="gitTest" target="1.5" />
+      <module name="gitTest1" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
