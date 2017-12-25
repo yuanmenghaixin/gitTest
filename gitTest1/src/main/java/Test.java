@@ -5,4 +5,8 @@ public class Test {
     public String String() {
         return "I am DemoObj第八次提交dev分支";
     }
+
+    public String toString9() {
+        return "I am DemoObj";
+    }
 }
