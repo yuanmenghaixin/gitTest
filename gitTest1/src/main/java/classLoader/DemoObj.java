@@ -8,4 +8,7 @@ public class DemoObj {
     public String toString() {
         return "I am DemoObj";
     }
+    public String toString1() {
+        return "I am DemoObj";
+    }
 }
