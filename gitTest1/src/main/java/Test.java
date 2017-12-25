@@ -6,7 +6,7 @@ public class Test {
         return "I am DemoObj第八次提交dev分支";
     }
 
-    public String toString9() {
+    public String toString10() {
         return "I am DemoObj";
     }
 }

@@ -9,7 +9,7 @@ public class DemoObj {
         return "I am DemoObj";
     }
 
-    public String toString9() {
+    public String toString10() {
         return "I am DemoObj";
     }
 
